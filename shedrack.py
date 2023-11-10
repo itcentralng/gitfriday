@@ -1,1 +1,2 @@
-name = "string"
+name = "string"+"list"
+print(name)
