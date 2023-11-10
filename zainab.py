@@ -1,1 +1,2 @@
-#i hate school
+fact= "i love school"
+print(fact)
