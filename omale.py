@@ -1,0 +1,1 @@
+# omale is finding it difficult to learn python.
