@@ -1,1 +1,1 @@
-i hate school
+#i hate school
