@@ -1,6 +1,8 @@
-name = "Al-Ameen Bature" 
+# Originality Check
 
-if name == "Al-Ameen Bature":
+name = "Al-Ameen Abdullahi Muhammad" 
+
+if name == "Al-Ameen Abdullahi Muhammad":
     print("Original detected 😀")
 else:
     print("Photocopy detected 😪")
