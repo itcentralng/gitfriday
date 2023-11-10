@@ -7,3 +7,6 @@ def getdouled(*doubled):
     return num
 
 print(getdouled(234))
+
+p= "coding is hard"
+print(p)
