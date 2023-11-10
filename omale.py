@@ -1,1 +1,2 @@
-# omale is finding it difficult to learn python.
+# omale will master python.
+print("omale will master python")
